@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in the [theory group](https://theory.cs.rutgers.edu/) at Rutgers University, fortunately advised by [Prof. Roie Levin](https://roielevin.com/). 
+I'm a PhD student in the [theory group](https://theory.cs.rutgers.edu/) at Rutgers University, fortunately advised by [Prof. Roie Levin](https://roielevin.com/).
 
-I'm broadly interested in approximation algorithms, especially algorithms under uncertainty. 
+I'm broadly interested in approximation algorithms, especially algorithms under uncertainty.
 
 I did my undergrad at University of Toronto.

@@ -32,4 +32,4 @@ I'm broadly interested in approximation algorithms, especially algorithms under 
 
 I did my undergrad at University of Toronto.
 
-Email: ```jiawei.yu1@rutgers.edu```
+Email: `jiawei.yu1@rutgers.edu`
